@@ -1,8 +1,8 @@
 ## Research topic
-How Openness Shapes User Trust in AI Chatbots: An Investigation Based on the Big Five Model
+**The Role of Openness Similarity in Shaping User Trust in AI Assistants**
 
 ### 🧠 1. Research Objective
-Do users tend to trust AI assistants with a high, medium, or low level of openness in personality style?
+Does similarity in openness between the user and the AI lead to higher levels of trust?
 
 ### 🧪 2. Method Overview
 Using an experimental approach, this study builds three AI assistants with different levels of openness (high = 0.9, medium = 0.5, low = 0.1), 
@@ -45,9 +45,13 @@ This design can not only fully stimulate the personality style of the AI assista
 
 
 ### 👥 5、Participants
-Test subjects are recruited from multiple countries to cover different cultural backgrounds and language habits as much as possible. 
+Use a Big Five personality test to get each user's scores on all five traits.
 
-The test subjects are mainly users with a certain level of English comprehension ability. Recruitment is carried out through methods such as online questionnaires, social platforms, and campus channels. Each participant needs to interact with three different open - personality AIs and complete the corresponding trust questionnaire.
+Then, select users whose scores on the other four traits _(Conscientiousness, Extraversion, Agreeableness, Neuroticism)_ are around the middle level,
+
+and only keep users who have different levels of Openness (high, medium, or low).
+
+_Multiple countries to cover different cultural backgrounds and language habits as much as possible._
 
 ### 🧾 6、Trust Questionnaire
 Source of the Trust Questionnaire：
@@ -64,3 +68,10 @@ This scale is the most widely used standard scale in human-computer trust resear
 After completing the conversation task with each AI personality assistant, users should fill out this questionnaire immediately.
 
 Each user is required to fill out three questionnaires (corresponding to AI with high, medium, and low openness respectively).
+
+### 7. Structure of the referenced papers:
+(Sharan and Romano, “The Effects of Personality and Locus of Control on Trust in Humans versus Artificial Intelligence”)
+
+Because this paper also discusses the exploration of the Big Five personality traits and the trust in AI. 
+I think I can refer to the structure of this paper and some process for finding participants.
+
