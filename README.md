@@ -21,7 +21,15 @@ Why Qwen: Qwen has a neutral style, which makes it easier to control personality
 
 Personality control: Only the Openness trait is changed (high = 0.9, medium = 0.5, low = 0.1). The other four Big Five traits (Conscientiousness, Extraversion, Agreeableness, Neuroticism) stay at a medium level (0.5) to keep them the same.
 
-(图片)高中低
+high:
+<img width="996" height="417" alt="image" src="https://github.com/user-attachments/assets/47e4886a-162c-4755-89c0-81adc0ff1933" />
+
+medium: 
+<img width="1000" height="402" alt="image" src="https://github.com/user-attachments/assets/7bef9e91-47b3-4c0e-9b87-dc571f47015d" />
+
+Low:
+<img width="1033" height="388" alt="image" src="https://github.com/user-attachments/assets/6c47f9c2-3c16-4ed4-aca8-ed907d0f3205" />
+
 
 Natural conversation: The chatbot uses stream to give responses in real time and keeps the conversation context with conversation_history so that the dialogue feels smooth and connected.
 
